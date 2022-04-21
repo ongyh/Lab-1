@@ -1,2 +1,2 @@
 print("hi") 
-print ("gay")
+print ("my name is ni hao")
